@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+body {
+  font-family: "Roboto"
+}
+
+form {
+  height: 80px;
+}
+
+input {
+  position: relative;
+  bottom: 1px;
+  outline: none;
+}
+
+select {
+  outline: none;
+}
+
+label {
+  line-height: 30px;
+}
+
+hr {
+  margin: 3px 0;
+}
+
+#google-map {
+  height: 700px;
+  margin: auto;
+}
+
+.infowindow img {
+  width: 300px;
+}
